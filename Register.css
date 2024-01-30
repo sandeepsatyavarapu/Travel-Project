@@ -1,0 +1,50 @@
+.fa{
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align:center;
+    margin: 5px 2px;
+    border-radius: 50%;
+    text-decoration: none;
+    
+}
+}
+.fa:hover{
+    opacity: 0.8;
+}
+.fa-linkedin{
+    background-color:dodgerblue;
+    color: white;
+}
+.fa-whatsapp{
+    background-color: green;
+    color: white;
+}
+.fa-telegram{
+    background-color:deepskyblue;
+    color: white;
+}
+.fa-youtube{
+    background-color:red;
+    color: white;
+}
+.fa-instagram{
+    background-color:#f542e6;
+    color: white;
+}
+.fa-Amazon{
+    background-color:#FF9900;
+    color: white;
+}
+.fa-twitter{
+    background-color:deepskyblue;
+    color: white;
+}
+.fa-facebook{
+    background-color:deepskyblue;
+    color: white;
+}
+.p
+{
+    text-align: justify;
+}
